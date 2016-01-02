@@ -1,0 +1,8 @@
+(lp0
+S'poi'
+p1
+aS'expenses'
+p2
+aS'other'
+p3
+a.
